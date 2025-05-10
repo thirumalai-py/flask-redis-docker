@@ -1,0 +1,7 @@
+pymongo
+Flask-PyMongo
+python-dotenv
+dnspython
+pytest
+flask
+redis
